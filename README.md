@@ -1,22 +1,23 @@
-# 💫 Hi 👋, I'm Soham Mandal
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Soham Mondal
 
-Email Me 👉 ✉️ **mondalsoham007@gmail.com.com** For Project or Anything Else. 😊😊
+### Full Stack Developer | B.Tech CSE Student
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+I'm a passionate Full Stack Developer from India, focused on building modern web applications using the MERN stack and continuously improving my problem-solving and software development skills.
 
-## 🔗 I am a Content Creator. 😊😊
+- 🔭 Currently working on: MERN Stack Projects
+- 🌱 Currently learning: System Design, Advanced React, Backend Development
+- 👯 Looking to collaborate on: Open Source & Full Stack Projects
+- 💬 Ask me about: JavaScript, React, Node.js, Express.js, MongoDB, MySQL
+- 📫 Reach me at: mondalsoham007@gmail.com
+- 🎯 Goal: Become a Software Engineer
+- ⚡ Fun fact: I enjoy turning ideas into real-world web applications
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+---
+## 🔗  I am a Content Creator. 😊😊
 
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
+Stay updated with me by following on Instagram, Facebook .
+
+[![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
