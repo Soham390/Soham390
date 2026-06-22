@@ -54,6 +54,16 @@ Stay updated with me by following on Instagram, Facebook .
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+## 📌 Featured Projects
+
+- 🚀 Sliding Window Protocol Simulator
+- ⚙️ SJF Scheduler Simulator
+- 📝 Full Stack Blog Application
+- 🌐 MERN Stack Web Applications
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
