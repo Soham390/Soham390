@@ -57,10 +57,13 @@ I'm a passionate Full Stack Developer from India, focused on building modern web
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Soham390&theme=tokyonight&show_icons=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Soham390&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham390&theme=tokyonight&layout=compact)
+
+---
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Mondal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-mondal-38a667380/)
