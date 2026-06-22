@@ -27,7 +27,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soham390&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Soham390&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 💻 Tech Stack:
